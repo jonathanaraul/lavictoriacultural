@@ -19,7 +19,7 @@ use Symfony\Component\HttpFoundation\Request;
 $loader = require_once __DIR__.'/../app/bootstrap.php.cache';
 require_once __DIR__.'/../app/AppKernel.php';
 date_default_timezone_set('Europe/Madrid');
-$kernel = new AppKernel('dev', false);
+$kernel = new AppKernel('dev', true);
 $kernel->loadClassCache();
 Request::enableHttpMethodParameterOverride();
 $request = Request::createFromGlobals();
