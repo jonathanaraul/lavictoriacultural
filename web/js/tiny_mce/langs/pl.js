@@ -1,4 +1,4 @@
-﻿// PL lang variables
+// PL lang variables
 // fixed by Wooya
 // http://www.mfusion.prv.pl
 // fixed by lemiel 26.10.2005

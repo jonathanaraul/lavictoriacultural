@@ -1,4 +1,4 @@
-﻿// PL lang variables
+// PL lang variables
 // fixed by lemiel 14.11.2005
 
 tinyMCE.addToLang('advimage',{

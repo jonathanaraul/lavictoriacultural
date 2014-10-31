@@ -379,6 +379,14 @@
                 <target>Email</target>
             </trans-unit>
             <trans-unit id="95">
+                <source>Atributos</source>
+                <target>Attributes</target>
+            </trans-unit>
+            <trans-unit id="96">
+                <source>Nueva Cuenta</source>
+                <target>New Account</target>
+            </trans-unit>
+            <trans-unit id="97">
                 <source></source>
                 <target></target>
             </trans-unit>

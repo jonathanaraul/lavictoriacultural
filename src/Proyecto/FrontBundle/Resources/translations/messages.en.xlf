@@ -355,7 +355,7 @@
                 <target>Read more...</target>
             </trans-unit>
             <trans-unit id="89">
-                <source>Reserva ahora</source>
+                <source>Reserva Ahora</source>
                 <target>Reservation</target>
             </trans-unit>
             <trans-unit id="90">
@@ -387,8 +387,8 @@
                 <target>Email</target>
             </trans-unit>
             <trans-unit id="97">
-                <source></source>
-                <target></target>
+                <source>Reservar</source>
+                <target>Reserve</target>
             </trans-unit>
             <trans-unit id="98">
                 <source></source>
